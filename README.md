@@ -1,4 +1,3 @@
-Степаненко Андрій, 2 курс, комп. мат , 2 підгрупа
 
 # Probability-Theory-2-year-students
 
